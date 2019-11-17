@@ -62,23 +62,23 @@ not the intended use of the feature but can be used like that).
 be cast, then having different varieties of Yo may prove to be helpful.
 
 ## Countries Group Members Used
-James Martindale - China
-Sarath Sunkar - India
-Bryant Hall - Japan
+James Martindale - China\
+Sarath Sunkar - India\
+Bryant Hall - Japan\
 Adarius Begay - South Korea
 
 ## Storage Data for South Korea
 Key principles include transparency, lawful basis for processing, purpose limitation, data
 minimisation, proportionality, and retention.
 
-Individual rights are:
-Right of access to data/copies of his/her own data.
-Right to rectification of errors.
-Right to deletion/right to be forgotten.
-Right to object to processing.
-Right to restrict processing.
-Right to data portability.
-Right to withdraw consent.
-Right to object to marketing.
-Right to complain to the relevant data protection authority(ies).
+Individual rights are:\
+Right of access to data/copies of his/her own data.\
+Right to rectification of errors.\
+Right to deletion/right to be forgotten.\
+Right to object to processing.\
+Right to restrict processing.\
+Right to data portability.\
+Right to withdraw consent.\
+Right to object to marketing.\
+Right to complain to the relevant data protection authority(ies).\
 Liability related to the processing of personal data.
