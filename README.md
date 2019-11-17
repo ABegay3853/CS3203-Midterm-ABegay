@@ -1,6 +1,7 @@
 https://github.com/ABegay3853/CS3203-Midterm-ABegay.git
 
 Adarius Begay CS3203 Midterm
+<<<<<<< HEAD
 
 Page Screenshots
 ![First Panel Screenshot](Home_Page.png)
@@ -29,3 +30,5 @@ Page Connections
 ![Tenth Page Connections](Tenth_screen_connections.png)
 ![Eleventh Page Connections](Eleventh_screen_connections.png)
 ![Twelfth Page Connections](Twelfth_screen_connections.png)
+=======
+>>>>>>> d481d4bb24b746754c869db79552c0a9c306421c
